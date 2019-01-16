@@ -1,2 +1,3 @@
 # hello-world
-A practice repository
+
+Trying to figure out how GitHub works.
